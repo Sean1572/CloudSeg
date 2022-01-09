@@ -14,11 +14,11 @@ Our data comes from WSISEG (click [here](https://github.com/CV-Application/WSISE
 
 You can then structure the data by putting it into a folder structure as such:
 
-|__ src \n
-    |__ data \n
-         |__ train \n
-         |__ val \n
-         |__ test \n
+|__ src
+    |__ data
+        |__ train
+         |__ val
+         |__ test
 
 ## Credits
 
