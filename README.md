@@ -2,7 +2,7 @@
 
 ---
 
-Team Members: Person 1, Person 2, Person 3, etc.
+Team Members: Sean Perry, Jenny Lam Jason Liang, Aran Punniamoorthy
 
 This repo includes an implementation of a semantic segmentation model which predicts the semantic class label for each pixel in an image across all images in a cloud image dataset.
 
@@ -14,11 +14,11 @@ Our data comes from WSISEG (click [here](https://github.com/CV-Application/WSISE
 
 You can then structure the data by putting it into a folder structure as such:
 
-|__ src
-    |__ data
-         |__ train
-         |__ val
-         |__ test
+|__ src \n
+    |__ data \n
+         |__ train \n
+         |__ val \n
+         |__ test \n
 
 ## Credits
 
