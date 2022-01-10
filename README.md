@@ -1,6 +1,6 @@
 # Video Segmentation of Clouds ☁️
-
 ---
+![unknown](https://user-images.githubusercontent.com/25123131/148730294-becc9d82-6500-462f-b45d-6fadd18e3f87.png)
 
 Team Members: Sean Perry, Jenny Lam Jason Liang, Aran Punniamoorthy
 
